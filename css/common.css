@@ -106,6 +106,7 @@ h2 {
 .greeting-section h1 {
   margin-top: 20px;
   font-size: 1.8rem;
+  text-align: left;
 }
 
 /* ====== Task 4 ====== */
@@ -230,11 +231,11 @@ h2 {
 }
 
 #controls button[data-create] {
-  background-color: #27ae60;
+  background-color: #4a90e2;
 }
 
 #controls button[data-create]:hover {
-  background-color: #1e8449;
+  background-color: #357abd;
 }
 
 #controls button[data-destroy] {
